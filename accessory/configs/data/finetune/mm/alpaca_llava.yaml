@@ -1,0 +1,7 @@
+META:
+  -
+    path: '../data/alpaca_gpt4_data.json'
+    type: 'text'
+  -
+    path: '../data/llava_instruct_150k_single_turn.json'
+    type: 'image_text'
